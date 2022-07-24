@@ -1,0 +1,16 @@
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\source\bin\Release\net35\find_my_pdf.exe.config
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\source\bin\Release\net35\find_my_pdf.exe
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\source\bin\Release\net35\find_my_pdf.pdb
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\source\bin\Release\net35\BouncyCastle.Crypto.dll
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\source\bin\Release\net35\itextsharp.dll
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\source\bin\Release\net35\System.Data.SQLite.dll
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\source\bin\Release\net35\System.Data.SQLite.Linq.dll
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\source\obj\Release\net35\find_my_pdf.frmMain.resources
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\source\obj\Release\net35\find_my_pdf.csproj.GenerateResource.cache
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\source\obj\Release\net35\find_my_pdf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\source\obj\Release\net35\find_my_pdf.AssemblyInfoInputs.cache
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\source\obj\Release\net35\find_my_pdf.AssemblyInfo.cs
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\source\obj\Release\net35\find_my_pdf.csproj.CoreCompileInputs.cache
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\source\obj\Release\net35\find_my_pdf.csproj.CopyComplete
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\source\obj\Release\net35\find_my_pdf.exe
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\source\obj\Release\net35\find_my_pdf.pdb

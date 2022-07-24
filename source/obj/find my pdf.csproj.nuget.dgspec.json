@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sac Le\\source\\repos\\TimHoaDonTuFilePDF\\TimHoaDonTuFilePDF\\find my pdf.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sac Le\\source\\repos\\TimHoaDonTuFilePDF\\TimHoaDonTuFilePDF\\find my pdf.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sac Le\\source\\repos\\TimHoaDonTuFilePDF\\TimHoaDonTuFilePDF\\find my pdf.csproj",
+        "projectName": "find my pdf",
+        "projectPath": "C:\\Users\\Sac Le\\source\\repos\\TimHoaDonTuFilePDF\\TimHoaDonTuFilePDF\\find my pdf.csproj",
+        "packagesPath": "C:\\Users\\Sac Le\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sac Le\\source\\repos\\TimHoaDonTuFilePDF\\TimHoaDonTuFilePDF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sac Le\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net35"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net35": {
+            "targetAlias": "net35",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net35": {
+          "targetAlias": "net35",
+          "dependencies": {
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.116, )"
+            },
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
