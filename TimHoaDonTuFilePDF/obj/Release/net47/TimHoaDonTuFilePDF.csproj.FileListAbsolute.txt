@@ -1,0 +1,9 @@
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Release\net47\TimHoaDonTuFilePDF.csproj.AssemblyReference.cache
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Release\net47\TimHoaDonTuFilePDF.frmMain.resources
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Release\net47\TimHoaDonTuFilePDF.csproj.GenerateResource.cache
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Release\net47\TimHoaDonTuFilePDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Release\net47\TimHoaDonTuFilePDF.AssemblyInfoInputs.cache
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Release\net47\TimHoaDonTuFilePDF.AssemblyInfo.cs
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Release\net47\TimHoaDonTuFilePDF.csproj.CoreCompileInputs.cache
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Release\net47\TimHoaDonTuFilePDF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Release\net47\TimHoaDonTuFilePDF.exe.config

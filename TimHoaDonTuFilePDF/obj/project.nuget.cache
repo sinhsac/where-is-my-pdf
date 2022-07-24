@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "40ipcPPbgCKSy42zKftvI5TXZ6jZtN+Ca8MR+R0I/umJ5LvPRVGb0JNiu6P+/pJv9xX2MNothOKBMl/yNH99NA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sac Le\\source\\repos\\TimHoaDonTuFilePDF\\TimHoaDonTuFilePDF\\TimHoaDonTuFilePDF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sac Le\\.nuget\\packages\\bouncycastle\\1.8.9\\bouncycastle.1.8.9.nupkg.sha512",
+    "C:\\Users\\Sac Le\\.nuget\\packages\\itextsharp\\5.5.13.3\\itextsharp.5.5.13.3.nupkg.sha512",
+    "C:\\Users\\Sac Le\\.nuget\\packages\\stub.system.data.sqlite.core.netframework\\1.0.116\\stub.system.data.sqlite.core.netframework.1.0.116.nupkg.sha512",
+    "C:\\Users\\Sac Le\\.nuget\\packages\\system.data.sqlite\\1.0.116\\system.data.sqlite.1.0.116.nupkg.sha512",
+    "C:\\Users\\Sac Le\\.nuget\\packages\\system.data.sqlite.core\\1.0.116\\system.data.sqlite.core.1.0.116.nupkg.sha512",
+    "C:\\Users\\Sac Le\\.nuget\\packages\\system.data.sqlite.linq\\1.0.116\\system.data.sqlite.linq.1.0.116.nupkg.sha512"
+  ],
+  "logs": []
+}

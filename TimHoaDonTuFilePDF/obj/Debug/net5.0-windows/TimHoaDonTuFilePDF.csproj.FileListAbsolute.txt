@@ -1,0 +1,7 @@
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Debug\net5.0-windows\TimHoaDonTuFilePDF.csproj.AssemblyReference.cache
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Debug\net5.0-windows\TimHoaDonTuFilePDF.Form1.resources
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Debug\net5.0-windows\TimHoaDonTuFilePDF.csproj.GenerateResource.cache
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Debug\net5.0-windows\TimHoaDonTuFilePDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Debug\net5.0-windows\TimHoaDonTuFilePDF.AssemblyInfoInputs.cache
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Debug\net5.0-windows\TimHoaDonTuFilePDF.AssemblyInfo.cs
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Debug\net5.0-windows\TimHoaDonTuFilePDF.csproj.CoreCompileInputs.cache

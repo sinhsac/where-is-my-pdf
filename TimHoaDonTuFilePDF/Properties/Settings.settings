@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TimHoaDonTuFilePDF.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CREATE_PDF_TABLE" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CREATE TABLE IF NOT EXISTS pdfs ([id] INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, pdf_path nvarchar(200) NOT NULL UNIQUE, pdf_text_content nvarchar(2000), pdf_file_name nvarchar(150), pdf_keyword nvarchar(300), status varchar(50), created_at datetime, updated_at datetime)</Value>
+    </Setting>
+    <Setting Name="PDF_INSERT_NEW" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">INSERT INTO pdfs (pdf_path, pdf_text_content, pdf_file_name, pdf_keyword, status, created_at, updated_at) VALUES ('{0}', '{1}', '{2}', '{3}', 'OK', '{4}', '{5}');</Value>
+    </Setting>
+    <Setting Name="PDF_INSERT_" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">INSERT INTO pdfs (pdf_path, pdf_text_content, pdf_file_name, pdf_keyword, status, created_at, updated_at) VALUES </Value>
+    </Setting>
+    <Setting Name="PDF_VALUES" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">('{0}', '{1}', '{2}', '{3}', 'OK', '{4}', '{5}')</Value>
+    </Setting>
+    <Setting Name="PDF_COUNTER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SELECT COUNT(*) as total FROM pdfs</Value>
+    </Setting>
+    <Setting Name="LBL_BTN_QUET" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Tìm kiếm file PDF - có [{0}] file PDF</Value>
+    </Setting>
+    <Setting Name="PDF_SEARCH" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SELECT pdf_path, pdf_text_content, status FROM pdfs WHERE pdf_text_content LIKE '%{0}%';</Value>
+    </Setting>
+    <Setting Name="CREATE_HISTORY_TABLE" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CREATE TABLE IF NOT EXISTS search_history ([id] INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, search_text nvarchar(200) NOT NULL UNIQUE, created_at datetime)</Value>
+    </Setting>
+    <Setting Name="LAST_TEN_HISTORIES" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">SELECT search_text FROM search_history ORDER BY created_at DESC LIMIT 20;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

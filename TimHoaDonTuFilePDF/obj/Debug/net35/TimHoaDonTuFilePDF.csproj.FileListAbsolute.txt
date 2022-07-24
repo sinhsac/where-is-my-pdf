@@ -1,0 +1,17 @@
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Debug\net35\TimHoaDonTuFilePDF.frmMain.resources
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Debug\net35\TimHoaDonTuFilePDF.csproj.GenerateResource.cache
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Debug\net35\TimHoaDonTuFilePDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Debug\net35\TimHoaDonTuFilePDF.AssemblyInfoInputs.cache
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Debug\net35\TimHoaDonTuFilePDF.AssemblyInfo.cs
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Debug\net35\TimHoaDonTuFilePDF.csproj.CoreCompileInputs.cache
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\bin\Debug\net35\TimHoaDonTuFilePDF.exe.config
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\bin\Debug\net35\TimHoaDonTuFilePDF.exe
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\bin\Debug\net35\TimHoaDonTuFilePDF.pdb
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\bin\Debug\net35\BouncyCastle.Crypto.dll
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\bin\Debug\net35\itextsharp.dll
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\bin\Debug\net35\System.Data.SQLite.dll
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\bin\Debug\net35\System.Data.SQLite.Linq.dll
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Debug\net35\TimHoaDonTuFilePDF.csproj.CopyComplete
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Debug\net35\TimHoaDonTuFilePDF.exe
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Debug\net35\TimHoaDonTuFilePDF.pdb
+C:\Users\Sac Le\source\repos\TimHoaDonTuFilePDF\TimHoaDonTuFilePDF\obj\Debug\net35\TimHoaDonTuFilePDF.csproj.AssemblyReference.cache
